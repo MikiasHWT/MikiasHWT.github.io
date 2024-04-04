@@ -1,7 +1,7 @@
 <h1 align="center">Mikias Woldetensae</h1>
 <h2 align="center">Personal & Professional Portfolio</h2>
-<h3 align="center">A passionate, problem-solving biologist with an engineering persepctive.</h3>
-<h4 align="left">Purpose: To showcase my technical and scientific ability. </h4>
+<h3 align="center">A problem solver by nature and an immunologiest by nurture.</h3>
+<h4 align="center">Purpose: To showcase by technical ability.</h4>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mikiashwt&label=Profile%20views&color=0e75b6&style=flat" alt="mikiashwt" /> </p>
 
