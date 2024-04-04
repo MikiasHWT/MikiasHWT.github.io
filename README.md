@@ -1,4 +1,4 @@
-# MikiasHWT.github.io
+# Mikias Woldetensae
 Personal Portfolio
 
 This site will be used to showcase my technical and scientific background. 
