@@ -60,16 +60,12 @@
 <!-- Github most used languages-->
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mikiashwt&show_icons=true&locale=en&layout=compact"
-        alt="mikiashwt" /></p>
-
-<hr />      
+        alt="mikiashwt" /></p>    
 
 <!-- Github Stats -->
-<p>&nbsp;<img align="center"
+<p><img align="left"
         src="https://github-readme-stats.vercel.app/api?username=mikiashwt&show_icons=true&locale=en" alt="mikiashwt" />
 </p>
 
-<hr />
-
 <!-- Github streaks -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" alt="mikiashwt" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" alt="mikiashwt" /></p>
