@@ -45,8 +45,10 @@
 
 <hr />
 
+[![trophy](https://github-profile-trophy.vercel.app/?mikiashwt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=mikiashwt" alt="mikiashwt" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=mikiashwt&theme=onedark" alt="mikiashwt" /></a> </p>
 
 <hr />            
 
