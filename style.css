@@ -1,0 +1,18 @@
+<style>
+        /* Center the text */
+        div {
+                text-align: center;
+        }
+
+        /* Format the list */
+        dl {
+                display: grid;
+                align-items: stretch;
+                text-align: left;
+        }
+
+        dt::before {
+                content: "- ";
+                /* Add a bullet point before each term */
+        }
+</style>
