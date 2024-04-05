@@ -15,7 +15,7 @@
         <dd>24 color spectral panel to identify a wide variety of innate and adaptive immune populaitons in C57BL/6J mouse lung, BALF, Blood, Spleen and lymphoid tissues. </dd>
         <dd>Workflow includes R scripts for experiment preparation, data anaotation and analysis.</dd>
         <dt>Bulk RNA Sequencing Data Analysis </dt>
-        <dd>limma, EdgeR, DESeq2</dd>
+        <dd>limma, EdgeR, DESeq2, clusterProfiler</dd>
         <dt>Houseplant Maintance with Arduinos</dt>
         <dd>Humidity & temperature monitor</dd>
         <dd>Soil moisture monitor & LED indicator</dd>
