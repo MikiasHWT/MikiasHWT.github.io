@@ -1,3 +1,4 @@
+<!-- Page headers & Intro -->
 <h1 align="center">Mikias Woldetensae</h1>
 <h2 align="center">Personal & Professional Portfolio</h2>
 <h3 align="center">A problem solver by nature and an immunologiest by nurture.</h3>
@@ -5,9 +6,13 @@
 
 <hr />
 
+<!-- View counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mikiashwt&label=Profile%20views&color=0e75b6&style=flat"
         alt="mikiashwt" /> </p>
 
+<hr />
+
+<!-- Linkedin contact info -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/mikiashwt" target="blank"><img align="center"
@@ -17,6 +22,7 @@
 
 <hr />
 
+<!-- Programming & software tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
@@ -45,19 +51,25 @@
 
 <hr />
 
+<!-- Github Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=mikiashwt&theme=onedark" alt="mikiashwt" /></a> </p>
 
 <hr />            
 
+<!-- Github most used languages-->
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mikiashwt&show_icons=true&locale=en&layout=compact"
         alt="mikiashwt" /></p>
 
+<hr />      
+
+<!-- Github Stats -->
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=mikiashwt&show_icons=true&locale=en" alt="mikiashwt" />
 </p>
 
 <hr />
 
+<!-- Github streaks -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" alt="mikiashwt" /></p>
