@@ -6,26 +6,6 @@
 
 <hr />
 
-<!-- CSS segment -->
-<style>
-        /* Center the text */
-        div {
-                text-align: center;
-        }
-
-        /* Format the list */
-        dl {
-                display: grid;
-                align-items: stretch;
-                text-align: left;
-        }
-
-        dt::before {
-                content: "- ";
-                /* Add a bullet point before each term */
-        }
-</style>
-
 <!-- Current work -->
 <div><strong>Current Work</strong></div>
 <dl>
