@@ -1,8 +1,10 @@
 <!-- Page headers & Intro -->
 <h1 align="center">Mikias Woldetensae</h1>
-<h2 align="center">Personal & Professional [Portfolio](https://mikiashwt.github.io/) </h2>
+<h2 align="center">Personal & Professional Portfolio</h2>
 <h3 align="center">A problem solver by nature and an immunologiest by nurture.</h3>
 <h4 align="center">Purpose: To showcase by technical ability.</h4>
+
+#Check out my [Personal Website](https://mikiashwt.github.io/)
 
 <hr />
 
