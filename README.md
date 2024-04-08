@@ -4,7 +4,7 @@
 <h3 align="center">A problem solver by nature and an immunologiest by nurture.</h3>
 <h4 align="center">Purpose: To showcase by technical ability.</h4>
 
-## Check out my [Personal Website](https://mikiashwt.github.io/)
+## Check out my [Personal Website](https://www.mikiashwt.com/)
 
 <!-- Current work -->
 <div><strong>Current Work</strong></div>
